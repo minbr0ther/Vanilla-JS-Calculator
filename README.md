@@ -24,4 +24,5 @@
 2. `eval()` 함수는 사용하지 않는다.
 
 ## > 실행해보기
-🔗 https://jsfiddle.net/w6exz1as/1/
+
+🔗 https://jsfiddle.net/bumekpxq/
