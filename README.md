@@ -1,6 +1,6 @@
 # Vanilla-JS-Calculator (without `eval()`)
 
-![image](https://user-images.githubusercontent.com/24728385/129292298-89a0c071-e496-4e17-91cb-d6f4465e18b2.png){: width="200"}
+![image](https://user-images.githubusercontent.com/24728385/129292298-89a0c071-e496-4e17-91cb-d6f4465e18b2.png)
 
 ## > 목적
 
@@ -23,4 +23,5 @@
 
 2. `eval()` 함수는 사용하지 않는다.
 
+## > 실행해보기
 🔗 https://jsfiddle.net/w6exz1as/1/
